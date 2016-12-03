@@ -3,9 +3,9 @@
 %   Karthik Gopalakrishnan
 %   cc.gatech.edu/~karthik46
 %
-% An implementation of the forward-backward inference algorithm % for hidden Markov models, specifically to predict the
-% "goodness" of the economy using S&P 500 Index
-% data.
+% An implementation of the forward-backward inference algorithm
+% for hidden Markov models, specifically to predict the
+% "goodness" of the economy using S&P 500 Index data.
 %
 function prob = algorithm(q)
 
